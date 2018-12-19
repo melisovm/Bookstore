@@ -4,14 +4,15 @@ Used to do Express JS,Mongoose, Node JS, Angular, Bootstrap for front-end and al
 For run this application just clone from git and run `npm init` and `npm run`. But before this You have to initialize your database:
 
 - books
-  - title
-  - genre
-  - description
-  - author
-  - publisher
-  - image_url
-  - buy_url
+  - title - str
+  - genre - str
+  - description - str
+  - author - str
+  - publisher - str
+  - pages - int
+  - image_url - str
+  - buy_url - str
 - genre
-  - name
+  - name - str
 
 > If you have some trouble with running this code contact me on marsel.melisov@iaau.edu.kg
