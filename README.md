@@ -1,7 +1,7 @@
 # Simple Bookstore Application.
 
 Used to do Express JS,Mongoose, Node JS, Angular, Bootstrap for front-end and also MongoDB for data base.
-For run this application just clone from git and run `npm init` and `npm run`. But before this You have to initialize your database:
+For run this application just clone from git and write to your terminal `npm init` and `npm run`. But before this You have to initialize your database:
 
 - books
   - title - str
